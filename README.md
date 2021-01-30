@@ -4,6 +4,7 @@
 
 ## Documents
 [Program of the course](https://docs.google.com/document/d/13crEuP_iSmbjlbyyUgPDvwgkLFcCrslSBes6ukOmYOw/edit?usp=sharing)
+
 [Questions for QA session](https://docs.google.com/document/d/13rfu-xAB6WRB8OEWHui7Py5qAj3uO3cr0Wq9LnF81IE/edit?usp=sharing)
 
 ## Prerequisites
